@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS & UI/UX Design**
 
-- 📫 How to reach me **tt@tesoridesign.com**
+- 📫 How to reach me **tt@tonitesori.dev**
 
 - ⚡ Fun fact **I was once an extra in a Hallmark made-for-TV movie**
 
