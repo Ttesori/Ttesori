@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node & React**
 
-- 👨‍💻 All of my projects are available at [http://tesoridesign.com](http://tesoridesign.com)
+- 👨‍💻 All of my projects are available at [https://tonitesori.dev](https://tonitesori.dev)
 
 - 💬 Ask me about **HTML, CSS & UI/UX Design**
 
