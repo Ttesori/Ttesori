@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Toni</h1>
 <h3 align="center">A web developer from St. Augustine, Florida</h3>
 
-- 🔭 I’m currently working on [MathChamp](https://github.com/Ttesori/js-math-app)
+- 🔭 I’m currently working on [EmojiHunt](https://github.com/Ttesori/react-emoji-app)
 
 - 🌱 I’m currently learning **Node & React**
 
