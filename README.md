@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Toni</h1>
-<h3 align="center">A web developer from St. Augustine, Florida</h3>
-
-- 🔭 I’m currently working on [EmojiHunt](https://github.com/Ttesori/react-emoji-app)
+<h3 align="center">A web developer in Erie, CO</h3>
 
 - 🌱 I’m currently learning **Node & React**
 
-- 👨‍💻 All of my projects are available at [https://tonitesori.dev](https://tonitesori.dev)
+- 👨‍💻 Learn more about what I do at [https://tesoridesign.com](https://tesoridesign.com)
 
 - 💬 Ask me about **HTML, CSS & UI/UX Design**
 
